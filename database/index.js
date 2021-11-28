@@ -40,7 +40,7 @@ let books = [
     {
       id: 1,
       name: "ShapeAI Publications",
-      books: ["12345ONE", "12345Two"],
+      books: ["12345ONE", "12345Two"],   
     },
     {
       id: 2,
@@ -48,5 +48,6 @@ let books = [
       books: [],
     },
   ];
+
   
   module.exports = {books, authors, publications};
